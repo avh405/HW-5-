@@ -6,13 +6,27 @@ about:
   image: img/profile.png
 ---
 
+
 :::{#me}
+Hello! My name is Astrid Van Haren. I am currently studying data analytics and computational social science at the University of Massachusetts Amherst. 
+
+Outside of school, I enjoy hiking, reading, and spending time on arts and crafts. 
 
 ## Goals
 
+My goals for the next few years include:
+
+Strengthening my ability to analyze complex data, become proficient in statistical programming, and gain exposure to the sector of public health.
+
+Additionally, I am most intersted in working with projects that emphasize epidemology and biostatistics. In these domains, I aspire to use analytical and related tools to help inform decision-making of concerns in public health. 
+
 ## Education
 
-## Experience
+Bachelors of Arts, Psychology, University of Massachusetts Lowell
+
+Relevant Coursework: Biostatistics, Research Methods, Biology I 
+
+**[Click here to download my resume](AStrid Van Haren Resume.pdf)**
 
 :::
 
