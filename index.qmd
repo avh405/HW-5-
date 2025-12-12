@@ -8,6 +8,10 @@ about:
 
 
 :::{#me}
+
+[<y Picture](./pro_shot.jpg)
+
+
 Hello! My name is Astrid Van Haren. I am currently studying data analytics and computational social science at the University of Massachusetts Amherst. 
 
 Outside of school, I enjoy hiking, reading, and spending time on arts and crafts. 
